@@ -1,7 +1,7 @@
 export default function CreatePage() {
   return (
     <main>
-      <p>Create</p>
+      <h1>Create Transactions</h1>
     </main>
   );
 }
